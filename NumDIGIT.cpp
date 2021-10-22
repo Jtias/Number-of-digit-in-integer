@@ -1,14 +1,6 @@
 /*
-Name : Junan Nashit Tias
-Student ID : 200424052
-
-JunanTiasAs5Q1.cpp
 
 Write a function that returns the number of digits in an integer using the a header
-
-Step 1: Enter Integer
-Step 2: Use the getsize function to count the number of digits in the integer.
-Step 3: display the number of digits
 
 Major Variable
 
